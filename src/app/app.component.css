@@ -1,0 +1,37 @@
+.altura-label,
+.velocidad-label {
+  font-weight: bold;
+  color: blue;
+}
+
+.controls {
+  width: 10%;
+  padding: 8px;
+  margin: 2px 0;
+  border: 1px solid #544848;
+  border-radius: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: rgb(4, 4, 4);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+button[type="reset"] {
+  background-color: #f44336;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+h4 {
+  color: #000000;
+}
